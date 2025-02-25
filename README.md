@@ -8,6 +8,8 @@ I was keen to remind myself of the basics of HTML CSS and JS, as well as to try 
 
 <h2>Complete So Far</h2>
 
+- HTML and CSS for the menu, editor, and game all work as intended so far. Once the game logic is complete I will get more creative with the design.
+
 - The editor works. Platforms and spikes can be added to the editor grid, spawn and goal positions can be modified.
 
 - The player can be moved with a, d & space, and the logic for keeping it in the game grid works.
